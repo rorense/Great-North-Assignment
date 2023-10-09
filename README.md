@@ -72,3 +72,5 @@ I unfortunately did not know how to complete this task. But I would love to know
 In the end, I was able to complete 4/5 tasks with the help of a couple of plugins. I believe some tasks were doable by messing around with the custom theme editor, using HTML, CSS and PHP, but due to time constraints, I did not pursue this method. 
 
 I would love to get the model answer for this technical assignment so I could explore other options and learn from this!
+
+Any questions with my work, let me know!
