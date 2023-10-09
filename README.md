@@ -4,6 +4,7 @@ Please see below for my solution to the WordPress Technical Assignment for Great
 
 Click on the link below to download the importable project file shared on WeTransfer:
 
+https://we.tl/t-pDtARxS28k
 
 ### 1. The header is stacked vertically, we would like it horizontal
 With the help of a plugin: "Elementor Header & Footer", I was able to align the header horizontally. With this tool,
