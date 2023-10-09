@@ -8,7 +8,7 @@ https://we.tl/t-pDtARxS28k
 
 ### 1. The header is stacked vertically, we would like it horizontal
 With the help of a plugin: "Elementor Header & Footer", I was able to align the header horizontally. With this tool,
-different elements can be modified using the Elementor plugin.
+different elements such as the header can be modified using the Elementor plugin.
 
 ![image](https://github.com/rorense/Great-North-Assignment/assets/103559314/a8737472-438b-4d7c-a24f-000d0d3088c0)
 
@@ -39,7 +39,7 @@ By using the same plugin, the hamburger menu is automatically implemented and an
 ---
 
 ### 3. We want a different logo in the footer, can you make it so we can add our own easily?
-The header and footer element has been separated and now have their own component. By clicking the edit footer button on the Elementor drop-down, you can easily change the footer image.
+The header and footer element has been separated and now represented by their own component. By clicking the edit footer button on the Elementor drop-down and clicking on choose image, you can easily change the footer image.
 
 ![image](https://github.com/rorense/Great-North-Assignment/assets/103559314/90a3d797-a7ee-49f8-a140-c4e6968dea49)
 
